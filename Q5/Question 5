@@ -1,1 +1,2 @@
 
+When the project is using Spring 4.3  and Hibernate 5.2, how to write the JUnit test without bounded with concrete DB closely. In other words, How to mock DB in JUnit test for service method.  If not possible give the reason else list cases for the different scenario. 
