@@ -1,1 +1,14 @@
 
+Reverses a single list.  The Node of this single list as the following:
+
+
+class Node{
+ Node next;
+ int value;
+}
+// Your resolution 
+// Time complexity:  
+// Space complexity:  
+public Node reverse(Node head){
+}
+// JUnit test cases 
