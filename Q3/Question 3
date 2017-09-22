@@ -1,1 +1,10 @@
 
+Given a list of numbers, see if you can separate them in to k groups such that each group has the same sum. 
+
+
+public boolean separate(List<Integer> list, int k){
+   // Your resolution 
+   // Time complexity:  
+   // Space complexity: 
+}
+  // JUnit test cases 
